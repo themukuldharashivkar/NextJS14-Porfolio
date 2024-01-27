@@ -6,7 +6,7 @@ import ProjectsCard from "@/components/ProjectsCard";
 
 export default function Home() {
   return (
-    <main className="bg-[#092635]">
+    <main className="bg-white">
       <div className="mx-4 md:mx-20 pb-10">
         <Navbar />
         <Hero />
